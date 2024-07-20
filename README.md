@@ -11,6 +11,7 @@ ragKnowledge is a demonstration project showcasing the capabilities of GraphRAG 
 - Demonstrate the power of graph-based RAG techniques
 - Easy to set up and use
 
+![img.png](img.png)
 ## Prerequisites
 
 - Python 3.x
